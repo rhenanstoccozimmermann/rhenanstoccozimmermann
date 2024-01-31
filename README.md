@@ -1,7 +1,7 @@
 ### Olá!
 
 <p>Sou Rhenan Stocco Zimmermann, seja bem-vindo(a) ao meu perfil do GitHub!</p>
-<p>Estou em transição de carreira para desenvolvedor full stack, e atualmente estudo no curso de Desenvolvimento Web Full Stack da Trybe.</p>
+<p>Sou desenvolvedor full stack, e atualmente trabalho na XP Educação.</p>
 <p>Não hesite em entrar em contato!</p>
 
 ### Tecnologias que utilizo:
