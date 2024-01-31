@@ -1,7 +1,7 @@
 ### Olá!
 
-<p>Sou Rhenan Stocco Zimmermann, seja bem-vindo(a) ao meu perfil do GitHub!</p>
-<p>Sou desenvolvedor full stack, e atualmente trabalho na XP Educação.</p>
+<p>Seja bem-vindo(a) ao meu perfil do GitHub!</p>
+<p>Sou Rhenan Stocco Zimmermann, desenvolvedor full stack, e atualmente trabalho na XP Educação.</p>
 <p>Não hesite em entrar em contato!</p>
 
 ### Tecnologias que utilizo:
